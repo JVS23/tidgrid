@@ -17,5 +17,9 @@
     "sass-true": "^7.0.0",
     "stylelint": "^14.16.1",
     "stylelint-config-standard-scss": "^6.1.0"
+  },
+  "dependencies": {
+    "@types/js-yaml": "^4.0.5",
+    "js-yaml": "^4.1.0"
   }
 }
